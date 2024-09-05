@@ -2,12 +2,12 @@
 🚀 Project Overview
                  This project implements a Virtual Mouse system using OpenCV, Mediapipe, and PyAutoGUI. By tracking hand gestures and finger positions, this system allows users to control their computer's mouse without any physical hardware! It's a great demonstration of computer vision techniques applied to real-world use cases.
 
-Key Features:
+# Key Features:
           - Tracks hand and finger movements using Mediapipe Hands.
           - Allows smooth cursor movement.
           - Supports left-click, double-click, and scroll functionalities based on hand gestures.
           - Integrates PyAutoGUI to simulate mouse actions.
-# Tech Stack
+# Tech Stack:
           - Python
           - OpenCV for image processing.
           - Mediapipe for hand landmark detection.
