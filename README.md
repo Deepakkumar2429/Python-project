@@ -7,7 +7,7 @@ Key Features:
           ==>Allows smooth cursor movement.
           ==>Supports left-click, double-click, and scroll functionalities based on hand gestures.
           ==>Integrates PyAutoGUI to simulate mouse actions.
-# Tech Stack:
+# Tech Stack--
           ==>Python
           ==>OpenCV for image processing.
           ==>Mediapipe for hand landmark detection.
